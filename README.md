@@ -6,3 +6,8 @@ You can view the instructions [here](https://github.com/llSourcell/100_Days_of_M
 
 ## Day 1
   A program to choose white or black text on a given background color. Do `checkout day1` to view 
+
+## Day 2
+ Read # Day 2
+
+Read *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)* by Micheal Nielson and I learned alot. It was a bit hard but an interesting and good read.
